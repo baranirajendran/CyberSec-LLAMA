@@ -36,5 +36,12 @@ To use the LLAMA Cybersecurity Expert Chat Assistant, follow these steps:
    # Run the LLAMA model
    ollama run SECLLAMA
 
-## Screenshot
-![alt text]()
+## Screenshots
+## Output of LLAMA3
+![alt text](https://github.com/baranirajendran/CyberSec-LLAMA/blob/main/img/llama3-output.png)
+
+## Output of SecLLAMa
+![alt text](https://github.com/baranirajendran/CyberSec-LLAMA/blob/main/img/Secllama-output.png)
+
+## Output of Both 
+![alt text](https://github.com/baranirajendran/CyberSec-LLAMA/blob/main/img/both.png)
