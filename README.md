@@ -35,3 +35,6 @@ To use the LLAMA Cybersecurity Expert Chat Assistant, follow these steps:
 
    # Run the LLAMA model
    ollama run SECLLAMA
+
+## Screenshot
+![alt text]()
